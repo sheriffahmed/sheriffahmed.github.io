@@ -287,7 +287,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #262626;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -321,7 +321,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #262626;
   background: white;
   border: solid 2px white;
 }
@@ -369,8 +369,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #262626;
+  border-color: #262626;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -402,11 +402,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #262626;
+  border-color: #262626;
 }
 .btn-success .badge {
-  color: #18BC9C;
+  color: #262626;
   background-color: white;
 }
 .btn-social {
@@ -510,7 +510,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #18BC9C;
+  background: #262626;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
